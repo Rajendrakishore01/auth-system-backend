@@ -45,7 +45,7 @@ project-folder
 │── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone repository
-git clone https://github.com/yourusername/azure-secure-auth.git
+git clone https://github.com/yourusername/auth-system-backend.git
 cd azure-secure-auth
 2️⃣ Install dependencies
 npm install
